@@ -1,0 +1,51 @@
+#pricing {
+  background-image: linear-gradient(to right bottom, green 0%, white 100%);
+  background-size: cover;
+  height: 110vh;
+  background-repeat: no-repeat;
+  padding: 20px;
+  margin-bottom: 20px
+}
+
+.pricing-header {
+  text-align: left;
+  margin-right: 20px;
+}
+
+.pricing-image {
+  /* float: right; */
+  margin-left: 5rem;
+}
+
+.pricing-page {
+  margin-top: 4rem;
+}
+
+.pricing-page h1 {
+  font-size: 3rem;
+  color: #ff5e02;
+  font-weight: 600;
+}
+
+.pricing-page p {
+  /* margin-top: 80px; */
+  color: #000000;
+  font-size: 1.3rem;
+}
+
+.pricing-page h2 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.pricing-page .btn {
+  background-color: green;
+  border-radius: 20px;
+  color: rgb(234, 255, 0);
+  font-size: 1.5rem;
+  width: 200px;
+  height: 50px;
+  border: none;
+  margin-top: 20px;
+}

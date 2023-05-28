@@ -1,0 +1,49 @@
+#Service {
+  height: 100%;
+}
+.services {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  background-color: green;
+}
+
+.services p {
+  padding: 10px 10px 10px 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Poppins";
+  color: aliceblue;
+  font-size: 20px;
+}
+.services h3 {
+  padding: 10px 10px 10px 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Poppins";
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: 100;
+}
+.services h1 {
+  padding: 10px 10px 10px 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Poppins";
+  color: aliceblue;
+  font-size: 45px;
+}
+.services button {
+  font-size: 18px;
+  padding: 15px 15px 15px 15px;
+  margin: 20px 20px 20px 20px;
+  background-color: yellow;
+  color: green;
+  border: 1px solid black;
+  border-radius: 10px;
+}

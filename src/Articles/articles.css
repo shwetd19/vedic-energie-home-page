@@ -1,0 +1,103 @@
+.main_Recent {
+    background: rgb(231, 230, 40);
+    background: linear-gradient(180deg, rgba(231, 230, 40, 1) 2%, rgba(98, 195, 60, 1) 48%, rgba(0, 36, 12, 1) 100%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  .Recent_Articles {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .article_card {
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 97%;
+  }
+  
+  .article_card img {
+    padding: 0;
+    margin: 0;
+    width: 350px;
+  }
+  
+  .Sustainable {
+    color: rgb(3, 112, 3);
+    font-weight: 400;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  .Published {
+    color: rgb(3, 112, 3);
+    font-weight: 100;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  .info_card {
+    font-size: 16px;
+    color: black;
+    padding: 10px;
+    font-weight: normal;
+  }
+  
+  .Recent {
+    text-align: center;
+  }
+  
+  .SOCIAL_LINKS {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: white;
+    margin: 20px;
+  }
+  
+  .SOCIAL_LINKS_grid {
+    padding: 20px;
+  }
+  
+  .img_info_social {
+    font-size: 15px;
+    color: green;
+    padding: 10px;
+  }
+  
+  .main_info {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(4, 62, 4);
+    padding: 10px;
+    text-decoration-line: underline;
+  }
+  
+  .icon_social {
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 10px;
+  }
+  
+  ul li {
+    padding: 10px;
+    color: green;
+  }
+  
+  .cont {
+    padding: 10px;
+    color: green;
+  }
+  
+  .copy_right {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  
