@@ -76,7 +76,12 @@
   }
   
   .icon_social {
-    padding: 10px;
+    padding: 20px;
+  }
+  .icon_social img{
+    padding: 3px;
+    height: 2rem;
+    width: 2rem;
   }
   
   ul {
@@ -88,10 +93,18 @@
     padding: 10px;
     color: green;
   }
+  ul li a{
+    padding: 10px;
+    color: green;
+  }
   
   .cont {
     padding: 10px;
     color: green;
+  }
+  .cont img{
+    height: 2rem;
+    width: 2rem;
   }
   
   .copy_right {
@@ -99,5 +112,9 @@
     font-weight: 700;
     text-align: center;
     color: rgb(255, 255, 255);
+  }
+  .maps img{
+    height: 10rem;
+    width: 17rem;
   }
   

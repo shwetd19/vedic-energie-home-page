@@ -10,7 +10,15 @@ header {
 }
 .header{
   color: chartreuse;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+  align-items: center;
+  position: fixed;
+  z-index: 999;
 }
+
 
 #menu li {
   list-style: none;
@@ -42,11 +50,12 @@ section {
   position: relative;
   height: 100%;
 }
-.heros-text { 
+
+.heros-text {
   margin-top: 50px;
   margin-left: 100px;
   color: #fff;
- font-size: 2em;
+  font-size: 2em;
 }
 .object {
   height: 350px;
